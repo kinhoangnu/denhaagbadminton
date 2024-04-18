@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DenhaagBadminton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6b878a857fcdf229a727cfdebcbc369349f75e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1103ecd7863956c4a2042bd1bc2d66ae56d45c09")]
 [assembly: System.Reflection.AssemblyProductAttribute("DenhaagBadminton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DenhaagBadminton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
